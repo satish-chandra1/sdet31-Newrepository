@@ -21,4 +21,9 @@ public class oragnizationTest {
 		System.out.println("purchase is created");
 	}
 	
+	@Test
+	public void change() {
+		System.out.println("change done ");
+	}
+	
 }
