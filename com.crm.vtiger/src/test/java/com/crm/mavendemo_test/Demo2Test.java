@@ -7,5 +7,9 @@ public class Demo2Test {
 	@Test
 	public void sample() {
 		System.out.println("sample is executed");
+		
+		
+		System.out.println("sample is executed again");
+		
 	}
 }
